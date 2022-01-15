@@ -1,0 +1,1911 @@
+([]main.ClinVarVariationData) (len=18 cap=33) {
+ (main.ClinVarVariationData) {
+  VariantAccession: (string) (len=12) "VCV000000441",
+  VariantVersion: (string) (len=1) "1",
+  VariantType: (string) (len=8) "Deletion",
+  GeneAffected: (string) (len=4) "BCAM",
+  GeneEntrezID: (string) (len=4) "4059",
+  GeneOmimID: (string) (len=6) "612773",
+  NcbiRefSeq: (string) "",
+  LocationType: (string) (len=26) "variantLocationNotProvided",
+  DbSNPID: (string) (len=4) "none",
+  GenomeVersion: (string) (len=11) "notProvided",
+  ChromLocation: (string) (len=7) "19q13.2",
+  VariantChromStart: (string) (len=11) "notProvided",
+  VariantChromStop: (string) (len=11) "notProvided",
+  VariantLength: (string) (len=11) "notProvided",
+  VariantOmimID: (string) (len=11) "612773.0004",
+  VariantReviewStatus: (string) (len=30) "no assertion criteria provided",
+  VariantInterpretation: (string) (len=10) "Pathogenic",
+  HGVData: ([]main.HGVData) {
+  },
+  RCVData: ([]main.RCVData) (len=1 cap=1) {
+   (main.RCVData) {
+    RCVAccessionID: (string) (len=12) "RCV000000470",
+    RCVVersion: (string) (len=1) "4",
+    RCVInterpretation: (string) (len=10) "Pathogenic",
+    RCVCondition: (string) (len=26) "BLOOD GROUP--LUTHERAN NULL",
+    RCVSubmissionCount: (string) (len=1) "1",
+    RCVReviewStatus: (string) (len=30) "no assertion criteria provided",
+    RCVMedGenID: (string) (len=8) "C4017284",
+    RCVTraitSetID: (string) (len=3) "125"
+   }
+  },
+  ClinicalInterpretations: (main.ClinicalInterpretations) {
+   InterpretationsCitations: ([]main.Citations) (len=1 cap=1) {
+    (main.Citations) {
+     CitationSource: (string) (len=6) "PubMed",
+     CitationID: (string) (len=8) "17319831"
+    }
+   },
+   Trait: ([]main.Traits) (len=1 cap=1) {
+    (main.Traits) {
+     ID: (string) (len=4) "9638",
+     Name: (string) (len=26) "BLOOD GROUP--LUTHERAN NULL",
+     Citations: ([]main.Citations) <nil>,
+     PhenotypicSeries: (string) "",
+     TraitMedGen: (string) (len=8) "C4017284",
+     TraitOrph: (string) ""
+    }
+   }
+  }
+ },
+ (main.ClinVarVariationData) {
+  VariantAccession: (string) (len=12) "VCV000002060",
+  VariantVersion: (string) (len=1) "1",
+  VariantType: (string) (len=8) "Deletion",
+  GeneAffected: (string) (len=5) "RDH12",
+  GeneEntrezID: (string) (len=6) "145226",
+  GeneOmimID: (string) (len=6) "608830",
+  NcbiRefSeq: (string) "",
+  LocationType: (string) (len=26) "variantLocationNotProvided",
+  DbSNPID: (string) (len=4) "none",
+  GenomeVersion: (string) (len=11) "notProvided",
+  ChromLocation: (string) (len=7) "14q23.3",
+  VariantChromStart: (string) (len=11) "notProvided",
+  VariantChromStop: (string) (len=11) "notProvided",
+  VariantLength: (string) (len=11) "notProvided",
+  VariantOmimID: (string) (len=11) "608830.0015",
+  VariantReviewStatus: (string) (len=30) "no assertion criteria provided",
+  VariantInterpretation: (string) (len=10) "Pathogenic",
+  HGVData: ([]main.HGVData) {
+  },
+  RCVData: ([]main.RCVData) (len=1 cap=1) {
+   (main.RCVData) {
+    RCVAccessionID: (string) (len=12) "RCV000002141",
+    RCVVersion: (string) (len=1) "2",
+    RCVInterpretation: (string) (len=10) "Pathogenic",
+    RCVCondition: (string) (len=23) "Retinitis pigmentosa 53",
+    RCVSubmissionCount: (string) (len=1) "1",
+    RCVReviewStatus: (string) (len=30) "no assertion criteria provided",
+    RCVMedGenID: (string) (len=8) "C3150208",
+    RCVTraitSetID: (string) (len=3) "523"
+   }
+  },
+  ClinicalInterpretations: (main.ClinicalInterpretations) {
+   InterpretationsCitations: ([]main.Citations) (len=1 cap=1) {
+    (main.Citations) {
+     CitationSource: (string) (len=6) "PubMed",
+     CitationID: (string) (len=8) "18779497"
+    }
+   },
+   Trait: ([]main.Traits) (len=1 cap=1) {
+    (main.Traits) {
+     ID: (string) (len=4) "9760",
+     Name: (string) (len=23) "Retinitis pigmentosa 53",
+     Citations: ([]main.Citations) <nil>,
+     PhenotypicSeries: (string) "",
+     TraitMedGen: (string) (len=8) "C3150208",
+     TraitOrph: (string) ""
+    }
+   }
+  }
+ },
+ (main.ClinVarVariationData) {
+  VariantAccession: (string) (len=12) "VCV000003202",
+  VariantVersion: (string) (len=1) "1",
+  VariantType: (string) (len=9) "Insertion",
+  GeneAffected: (string) (len=4) "FKTN",
+  GeneEntrezID: (string) (len=4) "2218",
+  GeneOmimID: (string) (len=6) "607440",
+  NcbiRefSeq: (string) "",
+  LocationType: (string) (len=26) "variantLocationNotProvided",
+  DbSNPID: (string) (len=4) "none",
+  GenomeVersion: (string) (len=11) "notProvided",
+  ChromLocation: (string) (len=4) "9q31",
+  VariantChromStart: (string) (len=11) "notProvided",
+  VariantChromStop: (string) (len=11) "notProvided",
+  VariantLength: (string) (len=11) "notProvided",
+  VariantOmimID: (string) (len=11) "607440.0004",
+  VariantReviewStatus: (string) (len=30) "no assertion criteria provided",
+  VariantInterpretation: (string) (len=10) "Pathogenic",
+  HGVData: ([]main.HGVData) {
+  },
+  RCVData: ([]main.RCVData) (len=1 cap=1) {
+   (main.RCVData) {
+    RCVAccessionID: (string) (len=12) "RCV000003355",
+    RCVVersion: (string) (len=1) "3",
+    RCVInterpretation: (string) (len=10) "Pathogenic",
+    RCVCondition: (string) (len=86) "Congenital muscular dystrophy-dystroglycanopathy with brain and eye anomalies, type A4",
+    RCVSubmissionCount: (string) (len=1) "1",
+    RCVReviewStatus: (string) (len=30) "no assertion criteria provided",
+    RCVMedGenID: (string) (len=8) "CN355827",
+    RCVTraitSetID: (string) (len=3) "820"
+   }
+  },
+  ClinicalInterpretations: (main.ClinicalInterpretations) {
+   InterpretationsCitations: ([]main.Citations) (len=1 cap=1) {
+    (main.Citations) {
+     CitationSource: (string) (len=6) "PubMed",
+     CitationID: (string) (len=8) "10545611"
+    }
+   },
+   Trait: ([]main.Traits) (len=1 cap=1) {
+    (main.Traits) {
+     ID: (string) (len=4) "9860",
+     Name: (string) (len=86) "Congenital muscular dystrophy-dystroglycanopathy with brain and eye anomalies, type A4",
+     Citations: ([]main.Citations) <nil>,
+     PhenotypicSeries: (string) "",
+     TraitMedGen: (string) (len=8) "CN355827",
+     TraitOrph: (string) ""
+    }
+   }
+  }
+ },
+ (main.ClinVarVariationData) {
+  VariantAccession: (string) (len=12) "VCV000003212",
+  VariantVersion: (string) (len=1) "1",
+  VariantType: (string) (len=8) "Deletion",
+  GeneAffected: (string) (len=4) "FKTN",
+  GeneEntrezID: (string) (len=4) "2218",
+  GeneOmimID: (string) (len=6) "607440",
+  NcbiRefSeq: (string) "",
+  LocationType: (string) (len=26) "variantLocationNotProvided",
+  DbSNPID: (string) (len=4) "none",
+  GenomeVersion: (string) (len=11) "notProvided",
+  ChromLocation: (string) (len=4) "9q31",
+  VariantChromStart: (string) (len=11) "notProvided",
+  VariantChromStop: (string) (len=11) "notProvided",
+  VariantLength: (string) (len=11) "notProvided",
+  VariantOmimID: (string) (len=11) "607440.0013",
+  VariantReviewStatus: (string) (len=30) "no assertion criteria provided",
+  VariantInterpretation: (string) (len=10) "Pathogenic",
+  HGVData: ([]main.HGVData) {
+  },
+  RCVData: ([]main.RCVData) (len=1 cap=1) {
+   (main.RCVData) {
+    RCVAccessionID: (string) (len=12) "RCV000003367",
+    RCVVersion: (string) (len=1) "3",
+    RCVInterpretation: (string) (len=10) "Pathogenic",
+    RCVCondition: (string) (len=86) "Congenital muscular dystrophy-dystroglycanopathy with brain and eye anomalies, type A4",
+    RCVSubmissionCount: (string) (len=1) "1",
+    RCVReviewStatus: (string) (len=30) "no assertion criteria provided",
+    RCVMedGenID: (string) (len=8) "CN355827",
+    RCVTraitSetID: (string) (len=3) "820"
+   }
+  },
+  ClinicalInterpretations: (main.ClinicalInterpretations) {
+   InterpretationsCitations: ([]main.Citations) (len=1 cap=1) {
+    (main.Citations) {
+     CitationSource: (string) (len=6) "PubMed",
+     CitationID: (string) (len=8) "18177472"
+    }
+   },
+   Trait: ([]main.Traits) (len=1 cap=1) {
+    (main.Traits) {
+     ID: (string) (len=4) "9860",
+     Name: (string) (len=86) "Congenital muscular dystrophy-dystroglycanopathy with brain and eye anomalies, type A4",
+     Citations: ([]main.Citations) <nil>,
+     PhenotypicSeries: (string) "",
+     TraitMedGen: (string) (len=8) "CN355827",
+     TraitOrph: (string) ""
+    }
+   }
+  }
+ },
+ (main.ClinVarVariationData) {
+  VariantAccession: (string) (len=12) "VCV000003875",
+  VariantVersion: (string) (len=1) "1",
+  VariantType: (string) (len=9) "Insertion",
+  GeneAffected: (string) (len=4) "HEXB",
+  GeneEntrezID: (string) (len=4) "3074",
+  GeneOmimID: (string) (len=6) "606873",
+  NcbiRefSeq: (string) "",
+  LocationType: (string) (len=26) "variantLocationNotProvided",
+  DbSNPID: (string) (len=4) "none",
+  GenomeVersion: (string) (len=11) "notProvided",
+  ChromLocation: (string) (len=4) "5q13",
+  VariantChromStart: (string) (len=11) "notProvided",
+  VariantChromStop: (string) (len=11) "notProvided",
+  VariantLength: (string) (len=11) "notProvided",
+  VariantOmimID: (string) (len=11) "606873.0002",
+  VariantReviewStatus: (string) (len=30) "no assertion criteria provided",
+  VariantInterpretation: (string) (len=10) "Pathogenic",
+  HGVData: ([]main.HGVData) {
+  },
+  RCVData: ([]main.RCVData) (len=1 cap=1) {
+   (main.RCVData) {
+    RCVAccessionID: (string) (len=12) "RCV000004079",
+    RCVVersion: (string) (len=1) "2",
+    RCVInterpretation: (string) (len=10) "Pathogenic",
+    RCVCondition: (string) (len=31) "Sandhoff disease, juvenile type",
+    RCVSubmissionCount: (string) (len=1) "1",
+    RCVReviewStatus: (string) (len=30) "no assertion criteria provided",
+    RCVMedGenID: (string) (len=8) "C1849321",
+    RCVTraitSetID: (string) (len=4) "1060"
+   }
+  },
+  ClinicalInterpretations: (main.ClinicalInterpretations) {
+   InterpretationsCitations: ([]main.Citations) (len=3 cap=4) {
+    (main.Citations) {
+     CitationSource: (string) (len=6) "PubMed",
+     CitationID: (string) (len=5) "10724"
+    },
+    (main.Citations) {
+     CitationSource: (string) (len=6) "PubMed",
+     CitationID: (string) (len=7) "2170400"
+    },
+    (main.Citations) {
+     CitationSource: (string) (len=6) "PubMed",
+     CitationID: (string) (len=7) "2522450"
+    }
+   },
+   Trait: ([]main.Traits) (len=1 cap=1) {
+    (main.Traits) {
+     ID: (string) (len=4) "8971",
+     Name: (string) (len=31) "Sandhoff disease, juvenile type",
+     Citations: ([]main.Citations) <nil>,
+     PhenotypicSeries: (string) "",
+     TraitMedGen: (string) (len=8) "C1849321",
+     TraitOrph: (string) ""
+    }
+   }
+  }
+ },
+ (main.ClinVarVariationData) {
+  VariantAccession: (string) (len=12) "VCV000003876",
+  VariantVersion: (string) (len=1) "1",
+  VariantType: (string) (len=9) "Insertion",
+  GeneAffected: (string) (len=4) "HEXB",
+  GeneEntrezID: (string) (len=4) "3074",
+  GeneOmimID: (string) (len=6) "606873",
+  NcbiRefSeq: (string) "",
+  LocationType: (string) (len=26) "variantLocationNotProvided",
+  DbSNPID: (string) (len=4) "none",
+  GenomeVersion: (string) (len=11) "notProvided",
+  ChromLocation: (string) (len=4) "5q13",
+  VariantChromStart: (string) (len=11) "notProvided",
+  VariantChromStop: (string) (len=11) "notProvided",
+  VariantLength: (string) (len=11) "notProvided",
+  VariantOmimID: (string) (len=11) "606873.0003",
+  VariantReviewStatus: (string) (len=30) "no assertion criteria provided",
+  VariantInterpretation: (string) (len=10) "Pathogenic",
+  HGVData: ([]main.HGVData) {
+  },
+  RCVData: ([]main.RCVData) (len=1 cap=1) {
+   (main.RCVData) {
+    RCVAccessionID: (string) (len=12) "RCV000004080",
+    RCVVersion: (string) (len=1) "2",
+    RCVInterpretation: (string) (len=10) "Pathogenic",
+    RCVCondition: (string) (len=24) "Hexosaminidase B (paris)",
+    RCVSubmissionCount: (string) (len=1) "1",
+    RCVReviewStatus: (string) (len=30) "no assertion criteria provided",
+    RCVMedGenID: (string) (len=8) "C4016989",
+    RCVTraitSetID: (string) (len=4) "1061"
+   }
+  },
+  ClinicalInterpretations: (main.ClinicalInterpretations) {
+   InterpretationsCitations: ([]main.Citations) (len=2 cap=2) {
+    (main.Citations) {
+     CitationSource: (string) (len=6) "PubMed",
+     CitationID: (string) (len=7) "2170400"
+    },
+    (main.Citations) {
+     CitationSource: (string) (len=6) "PubMed",
+     CitationID: (string) (len=6) "868875"
+    }
+   },
+   Trait: ([]main.Traits) (len=1 cap=1) {
+    (main.Traits) {
+     ID: (string) (len=5) "10010",
+     Name: (string) (len=24) "Hexosaminidase B (paris)",
+     Citations: ([]main.Citations) <nil>,
+     PhenotypicSeries: (string) "",
+     TraitMedGen: (string) (len=8) "C4016989",
+     TraitOrph: (string) ""
+    }
+   }
+  }
+ },
+ (main.ClinVarVariationData) {
+  VariantAccession: (string) (len=12) "VCV000003883",
+  VariantVersion: (string) (len=1) "1",
+  VariantType: (string) (len=8) "Deletion",
+  GeneAffected: (string) (len=4) "HEXB",
+  GeneEntrezID: (string) (len=4) "3074",
+  GeneOmimID: (string) (len=6) "606873",
+  NcbiRefSeq: (string) "",
+  LocationType: (string) (len=26) "variantLocationNotProvided",
+  DbSNPID: (string) (len=4) "none",
+  GenomeVersion: (string) (len=11) "notProvided",
+  ChromLocation: (string) (len=4) "5q13",
+  VariantChromStart: (string) (len=11) "notProvided",
+  VariantChromStop: (string) (len=11) "notProvided",
+  VariantLength: (string) (len=11) "notProvided",
+  VariantOmimID: (string) (len=11) "606873.0013",
+  VariantReviewStatus: (string) (len=30) "no assertion criteria provided",
+  VariantInterpretation: (string) (len=10) "Pathogenic",
+  HGVData: ([]main.HGVData) {
+  },
+  RCVData: ([]main.RCVData) (len=1 cap=1) {
+   (main.RCVData) {
+    RCVAccessionID: (string) (len=12) "RCV000004087",
+    RCVVersion: (string) (len=1) "2",
+    RCVInterpretation: (string) (len=10) "Pathogenic",
+    RCVCondition: (string) (len=32) "Sandhoff disease, infantile type",
+    RCVSubmissionCount: (string) (len=1) "1",
+    RCVReviewStatus: (string) (len=30) "no assertion criteria provided",
+    RCVMedGenID: (string) (len=8) "C1849322",
+    RCVTraitSetID: (string) (len=4) "1064"
+   }
+  },
+  ClinicalInterpretations: (main.ClinicalInterpretations) {
+   InterpretationsCitations: ([]main.Citations) (len=1 cap=1) {
+    (main.Citations) {
+     CitationSource: (string) (len=6) "PubMed",
+     CitationID: (string) (len=7) "7633435"
+    }
+   },
+   Trait: ([]main.Traits) (len=1 cap=1) {
+    (main.Traits) {
+     ID: (string) (len=4) "8972",
+     Name: (string) (len=32) "Sandhoff disease, infantile type",
+     Citations: ([]main.Citations) <nil>,
+     PhenotypicSeries: (string) "",
+     TraitMedGen: (string) (len=8) "C1849322",
+     TraitOrph: (string) ""
+    }
+   }
+  }
+ },
+ (main.ClinVarVariationData) {
+  VariantAccession: (string) (len=12) "VCV000004788",
+  VariantVersion: (string) (len=1) "1",
+  VariantType: (string) (len=8) "Deletion",
+  GeneAffected: (string) (len=3) "PRX",
+  GeneEntrezID: (string) (len=5) "57716",
+  GeneOmimID: (string) (len=6) "605725",
+  NcbiRefSeq: (string) "",
+  LocationType: (string) (len=26) "variantLocationNotProvided",
+  DbSNPID: (string) (len=4) "none",
+  GenomeVersion: (string) (len=11) "notProvided",
+  ChromLocation: (string) (len=13) "19q13.1-q13.2",
+  VariantChromStart: (string) (len=11) "notProvided",
+  VariantChromStop: (string) (len=11) "notProvided",
+  VariantLength: (string) (len=11) "notProvided",
+  VariantOmimID: (string) (len=11) "605725.0002",
+  VariantReviewStatus: (string) (len=30) "no assertion criteria provided",
+  VariantInterpretation: (string) (len=10) "Pathogenic",
+  HGVData: ([]main.HGVData) {
+  },
+  RCVData: ([]main.RCVData) (len=1 cap=1) {
+   (main.RCVData) {
+    RCVAccessionID: (string) (len=12) "RCV000005054",
+    RCVVersion: (string) (len=1) "3",
+    RCVInterpretation: (string) (len=10) "Pathogenic",
+    RCVCondition: (string) (len=44) "Autosomal recessive Dejerine-Sottas syndrome",
+    RCVSubmissionCount: (string) (len=1) "1",
+    RCVReviewStatus: (string) (len=30) "no assertion criteria provided",
+    RCVMedGenID: (string) (len=8) "CN069172",
+    RCVTraitSetID: (string) (len=4) "2323"
+   }
+  },
+  ClinicalInterpretations: (main.ClinicalInterpretations) {
+   InterpretationsCitations: ([]main.Citations) (len=1 cap=1) {
+    (main.Citations) {
+     CitationSource: (string) (len=6) "PubMed",
+     CitationID: (string) (len=8) "11133365"
+    }
+   },
+   Trait: ([]main.Traits) (len=1 cap=1) {
+    (main.Traits) {
+     ID: (string) (len=5) "10445",
+     Name: (string) (len=44) "Autosomal recessive Dejerine-Sottas syndrome",
+     Citations: ([]main.Citations) <nil>,
+     PhenotypicSeries: (string) "",
+     TraitMedGen: (string) (len=8) "CN069172",
+     TraitOrph: (string) ""
+    }
+   }
+  }
+ },
+ (main.ClinVarVariationData) {
+  VariantAccession: (string) (len=12) "VCV000004790",
+  VariantVersion: (string) (len=1) "1",
+  VariantType: (string) (len=8) "Deletion",
+  GeneAffected: (string) (len=3) "PRX",
+  GeneEntrezID: (string) (len=5) "57716",
+  GeneOmimID: (string) (len=6) "605725",
+  NcbiRefSeq: (string) "",
+  LocationType: (string) (len=26) "variantLocationNotProvided",
+  DbSNPID: (string) (len=4) "none",
+  GenomeVersion: (string) (len=11) "notProvided",
+  ChromLocation: (string) (len=13) "19q13.1-q13.2",
+  VariantChromStart: (string) (len=11) "notProvided",
+  VariantChromStop: (string) (len=11) "notProvided",
+  VariantLength: (string) (len=11) "notProvided",
+  VariantOmimID: (string) (len=11) "605725.0004",
+  VariantReviewStatus: (string) (len=30) "no assertion criteria provided",
+  VariantInterpretation: (string) (len=10) "Pathogenic",
+  HGVData: ([]main.HGVData) {
+  },
+  RCVData: ([]main.RCVData) (len=1 cap=1) {
+   (main.RCVData) {
+    RCVAccessionID: (string) (len=12) "RCV000005056",
+    RCVVersion: (string) (len=1) "3",
+    RCVInterpretation: (string) (len=10) "Pathogenic",
+    RCVCondition: (string) (len=44) "Autosomal recessive Dejerine-Sottas syndrome",
+    RCVSubmissionCount: (string) (len=1) "1",
+    RCVReviewStatus: (string) (len=30) "no assertion criteria provided",
+    RCVMedGenID: (string) (len=8) "CN069172",
+    RCVTraitSetID: (string) (len=4) "2323"
+   }
+  },
+  ClinicalInterpretations: (main.ClinicalInterpretations) {
+   InterpretationsCitations: ([]main.Citations) (len=1 cap=1) {
+    (main.Citations) {
+     CitationSource: (string) (len=6) "PubMed",
+     CitationID: (string) (len=8) "11133365"
+    }
+   },
+   Trait: ([]main.Traits) (len=1 cap=1) {
+    (main.Traits) {
+     ID: (string) (len=5) "10445",
+     Name: (string) (len=44) "Autosomal recessive Dejerine-Sottas syndrome",
+     Citations: ([]main.Citations) <nil>,
+     PhenotypicSeries: (string) "",
+     TraitMedGen: (string) (len=8) "CN069172",
+     TraitOrph: (string) ""
+    }
+   }
+  }
+ },
+ (main.ClinVarVariationData) {
+  VariantAccession: (string) (len=12) "VCV000004793",
+  VariantVersion: (string) (len=1) "1",
+  VariantType: (string) (len=8) "Deletion",
+  GeneAffected: (string) (len=3) "PRX",
+  GeneEntrezID: (string) (len=5) "57716",
+  GeneOmimID: (string) (len=6) "605725",
+  NcbiRefSeq: (string) "",
+  LocationType: (string) (len=26) "variantLocationNotProvided",
+  DbSNPID: (string) (len=4) "none",
+  GenomeVersion: (string) (len=11) "notProvided",
+  ChromLocation: (string) (len=13) "19q13.1-q13.2",
+  VariantChromStart: (string) (len=11) "notProvided",
+  VariantChromStop: (string) (len=11) "notProvided",
+  VariantLength: (string) (len=11) "notProvided",
+  VariantOmimID: (string) (len=11) "605725.0007",
+  VariantReviewStatus: (string) (len=30) "no assertion criteria provided",
+  VariantInterpretation: (string) (len=10) "Pathogenic",
+  HGVData: ([]main.HGVData) {
+  },
+  RCVData: ([]main.RCVData) (len=1 cap=1) {
+   (main.RCVData) {
+    RCVAccessionID: (string) (len=12) "RCV000005060",
+    RCVVersion: (string) (len=1) "3",
+    RCVInterpretation: (string) (len=10) "Pathogenic",
+    RCVCondition: (string) (len=44) "Autosomal recessive Dejerine-Sottas syndrome",
+    RCVSubmissionCount: (string) (len=1) "1",
+    RCVReviewStatus: (string) (len=30) "no assertion criteria provided",
+    RCVMedGenID: (string) (len=8) "CN069172",
+    RCVTraitSetID: (string) (len=4) "2323"
+   }
+  },
+  ClinicalInterpretations: (main.ClinicalInterpretations) {
+   InterpretationsCitations: ([]main.Citations) (len=1 cap=1) {
+    (main.Citations) {
+     CitationSource: (string) (len=6) "PubMed",
+     CitationID: (string) (len=8) "12112076"
+    }
+   },
+   Trait: ([]main.Traits) (len=1 cap=1) {
+    (main.Traits) {
+     ID: (string) (len=5) "10445",
+     Name: (string) (len=44) "Autosomal recessive Dejerine-Sottas syndrome",
+     Citations: ([]main.Citations) <nil>,
+     PhenotypicSeries: (string) "",
+     TraitMedGen: (string) (len=8) "CN069172",
+     TraitOrph: (string) ""
+    }
+   }
+  }
+ },
+ (main.ClinVarVariationData) {
+  VariantAccession: (string) (len=12) "VCV000005178",
+  VariantVersion: (string) (len=1) "1",
+  VariantType: (string) (len=25) "single nucleotide variant",
+  GeneAffected: (string) (len=6) "ADCY10",
+  GeneEntrezID: (string) (len=5) "55811",
+  GeneOmimID: (string) (len=6) "605205",
+  NcbiRefSeq: (string) "",
+  LocationType: (string) (len=26) "variantLocationNotProvided",
+  DbSNPID: (string) (len=4) "none",
+  GenomeVersion: (string) (len=11) "notProvided",
+  ChromLocation: (string) (len=4) "1q24",
+  VariantChromStart: (string) (len=11) "notProvided",
+  VariantChromStop: (string) (len=11) "notProvided",
+  VariantLength: (string) (len=11) "notProvided",
+  VariantOmimID: (string) (len=11) "605205.0001",
+  VariantReviewStatus: (string) (len=30) "no assertion criteria provided",
+  VariantInterpretation: (string) (len=11) "risk factor",
+  HGVData: ([]main.HGVData) {
+  },
+  RCVData: ([]main.RCVData) (len=1 cap=1) {
+   (main.RCVData) {
+    RCVAccessionID: (string) (len=12) "RCV000005486",
+    RCVVersion: (string) (len=1) "4",
+    RCVInterpretation: (string) (len=11) "risk factor",
+    RCVCondition: (string) (len=11) "notProvided",
+    RCVSubmissionCount: (string) (len=1) "1",
+    RCVReviewStatus: (string) (len=30) "no assertion criteria provided",
+    RCVMedGenID: (string) (len=11) "notProvided",
+    RCVTraitSetID: (string) (len=4) "1429"
+   }
+  },
+  ClinicalInterpretations: (main.ClinicalInterpretations) {
+   InterpretationsCitations: ([]main.Citations) (len=1 cap=1) {
+    (main.Citations) {
+     CitationSource: (string) (len=6) "PubMed",
+     CitationID: (string) (len=8) "11932268"
+    }
+   },
+   Trait: ([]main.Traits) (len=1 cap=1) {
+    (main.Traits) {
+     ID: (string) (len=5) "10140",
+     Name: (string) (len=45) "Hypercalciuria, absorptive, susceptibility to",
+     Citations: ([]main.Citations) <nil>,
+     PhenotypicSeries: (string) "",
+     TraitMedGen: (string) "",
+     TraitOrph: (string) ""
+    }
+   }
+  }
+ },
+ (main.ClinVarVariationData) {
+  VariantAccession: (string) (len=12) "VCV000428898",
+  VariantVersion: (string) (len=1) "5",
+  VariantType: (string) (len=8) "Deletion",
+  GeneAffected: (string) (len=4) "TP53",
+  GeneEntrezID: (string) (len=4) "7157",
+  GeneOmimID: (string) (len=6) "191170",
+  NcbiRefSeq: (string) (len=25) "NC_000017.11:7673533:CC:C",
+  LocationType: (string) (len=10) "withinGene",
+  DbSNPID: (string) (len=10) "1131691033",
+  GenomeVersion: (string) (len=6) "GRCh38",
+  ChromLocation: (string) (len=7) "17p13.1",
+  VariantChromStart: (string) (len=7) "7673534",
+  VariantChromStop: (string) (len=7) "7673534",
+  VariantLength: (string) (len=1) "1",
+  VariantOmimID: (string) (len=11) "notProvided",
+  VariantReviewStatus: (string) (len=24) "reviewed by expert panel",
+  VariantInterpretation: (string) (len=10) "Pathogenic",
+  HGVData: ([]main.HGVData) (len=29 cap=36) {
+   (main.HGVData) {
+    HGVAssembly: (string) "",
+    HGVType: (string) (len=6) "coding",
+    HGVNucleotideAccesssion: (string) (len=9) "LRG_321t5",
+    HGVNucleotideChange: (string) "",
+    HGVProteinAccession: (string) "",
+    HGVProteinChange: (string) "",
+    HGVConsequence: (string) ""
+   },
+   (main.HGVData) {
+    HGVAssembly: (string) "",
+    HGVType: (string) (len=6) "coding",
+    HGVNucleotideAccesssion: (string) (len=9) "LRG_321t6",
+    HGVNucleotideChange: (string) "",
+    HGVProteinAccession: (string) "",
+    HGVProteinChange: (string) "",
+    HGVConsequence: (string) ""
+   },
+   (main.HGVData) {
+    HGVAssembly: (string) "",
+    HGVType: (string) (len=6) "coding",
+    HGVNucleotideAccesssion: (string) (len=9) "LRG_321t7",
+    HGVNucleotideChange: (string) "",
+    HGVProteinAccession: (string) "",
+    HGVProteinChange: (string) "",
+    HGVConsequence: (string) ""
+   },
+   (main.HGVData) {
+    HGVAssembly: (string) "",
+    HGVType: (string) (len=6) "coding",
+    HGVNucleotideAccesssion: (string) (len=9) "LRG_321t8",
+    HGVNucleotideChange: (string) "",
+    HGVProteinAccession: (string) "",
+    HGVProteinChange: (string) "",
+    HGVConsequence: (string) ""
+   },
+   (main.HGVData) {
+    HGVAssembly: (string) "",
+    HGVType: (string) (len=6) "coding",
+    HGVNucleotideAccesssion: (string) (len=9) "LRG_321t1",
+    HGVNucleotideChange: (string) "",
+    HGVProteinAccession: (string) "",
+    HGVProteinChange: (string) "",
+    HGVConsequence: (string) ""
+   },
+   (main.HGVData) {
+    HGVAssembly: (string) "",
+    HGVType: (string) (len=6) "coding",
+    HGVNucleotideAccesssion: (string) (len=9) "LRG_321t2",
+    HGVNucleotideChange: (string) "",
+    HGVProteinAccession: (string) "",
+    HGVProteinChange: (string) "",
+    HGVConsequence: (string) ""
+   },
+   (main.HGVData) {
+    HGVAssembly: (string) (len=6) "GRCh37",
+    HGVType: (string) (len=18) "genomic, top-level",
+    HGVNucleotideAccesssion: (string) (len=12) "NC_000017.10",
+    HGVNucleotideChange: (string) (len=12) "g.7576853del",
+    HGVProteinAccession: (string) "",
+    HGVProteinChange: (string) "",
+    HGVConsequence: (string) ""
+   },
+   (main.HGVData) {
+    HGVAssembly: (string) (len=6) "GRCh38",
+    HGVType: (string) (len=18) "genomic, top-level",
+    HGVNucleotideAccesssion: (string) (len=12) "NC_000017.11",
+    HGVNucleotideChange: (string) (len=12) "g.7673535del",
+    HGVProteinAccession: (string) "",
+    HGVProteinChange: (string) "",
+    HGVConsequence: (string) ""
+   },
+   (main.HGVData) {
+    HGVAssembly: (string) "",
+    HGVType: (string) (len=6) "coding",
+    HGVNucleotideAccesssion: (string) (len=14) "NM_001126112.2",
+    HGVNucleotideChange: (string) (len=10) "c.993+1del",
+    HGVProteinAccession: (string) "",
+    HGVProteinChange: (string) "",
+    HGVConsequence: (string) (len=20) "splice donor variant"
+   },
+   (main.HGVData) {
+    HGVAssembly: (string) "",
+    HGVType: (string) (len=6) "coding",
+    HGVNucleotideAccesssion: (string) (len=11) "NM_000546.5",
+    HGVNucleotideChange: (string) (len=10) "c.993+1del",
+    HGVProteinAccession: (string) "",
+    HGVProteinChange: (string) "",
+    HGVConsequence: (string) (len=20) "splice donor variant"
+   },
+   (main.HGVData) {
+    HGVAssembly: (string) "",
+    HGVType: (string) (len=6) "coding",
+    HGVNucleotideAccesssion: (string) (len=14) "NM_001126113.2",
+    HGVNucleotideChange: (string) (len=10) "c.993+1del",
+    HGVProteinAccession: (string) "",
+    HGVProteinChange: (string) "",
+    HGVConsequence: (string) (len=20) "splice donor variant"
+   },
+   (main.HGVData) {
+    HGVAssembly: (string) "",
+    HGVType: (string) (len=6) "coding",
+    HGVNucleotideAccesssion: (string) (len=14) "NM_001126114.2",
+    HGVNucleotideChange: (string) (len=10) "c.993+1del",
+    HGVProteinAccession: (string) "",
+    HGVProteinChange: (string) "",
+    HGVConsequence: (string) (len=20) "splice donor variant"
+   },
+   (main.HGVData) {
+    HGVAssembly: (string) "",
+    HGVType: (string) (len=6) "coding",
+    HGVNucleotideAccesssion: (string) (len=14) "NM_001126118.1",
+    HGVNucleotideChange: (string) (len=10) "c.876+1del",
+    HGVProteinAccession: (string) "",
+    HGVProteinChange: (string) "",
+    HGVConsequence: (string) (len=20) "splice donor variant"
+   },
+   (main.HGVData) {
+    HGVAssembly: (string) "",
+    HGVType: (string) (len=6) "coding",
+    HGVNucleotideAccesssion: (string) (len=14) "NM_001276761.2",
+    HGVNucleotideChange: (string) (len=10) "c.876+1del",
+    HGVProteinAccession: (string) "",
+    HGVProteinChange: (string) "",
+    HGVConsequence: (string) (len=20) "splice donor variant"
+   },
+   (main.HGVData) {
+    HGVAssembly: (string) "",
+    HGVType: (string) (len=6) "coding",
+    HGVNucleotideAccesssion: (string) (len=14) "NM_001276760.2",
+    HGVNucleotideChange: (string) (len=10) "c.876+1del",
+    HGVProteinAccession: (string) "",
+    HGVProteinChange: (string) "",
+    HGVConsequence: (string) (len=20) "splice donor variant"
+   },
+   (main.HGVData) {
+    HGVAssembly: (string) "",
+    HGVType: (string) (len=6) "coding",
+    HGVNucleotideAccesssion: (string) (len=14) "NM_001276695.2",
+    HGVNucleotideChange: (string) (len=10) "c.876+1del",
+    HGVProteinAccession: (string) "",
+    HGVProteinChange: (string) "",
+    HGVConsequence: (string) (len=20) "splice donor variant"
+   },
+   (main.HGVData) {
+    HGVAssembly: (string) "",
+    HGVType: (string) (len=6) "coding",
+    HGVNucleotideAccesssion: (string) (len=14) "NM_001276696.2",
+    HGVNucleotideChange: (string) (len=10) "c.876+1del",
+    HGVProteinAccession: (string) "",
+    HGVProteinChange: (string) "",
+    HGVConsequence: (string) (len=20) "splice donor variant"
+   },
+   (main.HGVData) {
+    HGVAssembly: (string) "",
+    HGVType: (string) (len=6) "coding",
+    HGVNucleotideAccesssion: (string) (len=14) "NM_001126115.1",
+    HGVNucleotideChange: (string) (len=10) "c.597+1del",
+    HGVProteinAccession: (string) "",
+    HGVProteinChange: (string) "",
+    HGVConsequence: (string) (len=20) "splice donor variant"
+   },
+   (main.HGVData) {
+    HGVAssembly: (string) "",
+    HGVType: (string) (len=6) "coding",
+    HGVNucleotideAccesssion: (string) (len=14) "NM_001126117.1",
+    HGVNucleotideChange: (string) (len=10) "c.597+1del",
+    HGVProteinAccession: (string) "",
+    HGVProteinChange: (string) "",
+    HGVConsequence: (string) (len=20) "splice donor variant"
+   },
+   (main.HGVData) {
+    HGVAssembly: (string) "",
+    HGVType: (string) (len=6) "coding",
+    HGVNucleotideAccesssion: (string) (len=14) "NM_001126116.1",
+    HGVNucleotideChange: (string) (len=10) "c.597+1del",
+    HGVProteinAccession: (string) "",
+    HGVProteinChange: (string) "",
+    HGVConsequence: (string) (len=20) "splice donor variant"
+   },
+   (main.HGVData) {
+    HGVAssembly: (string) "",
+    HGVType: (string) (len=6) "coding",
+    HGVNucleotideAccesssion: (string) (len=14) "NM_001276697.2",
+    HGVNucleotideChange: (string) (len=10) "c.516+1del",
+    HGVProteinAccession: (string) "",
+    HGVProteinChange: (string) "",
+    HGVConsequence: (string) (len=20) "splice donor variant"
+   },
+   (main.HGVData) {
+    HGVAssembly: (string) "",
+    HGVType: (string) (len=6) "coding",
+    HGVNucleotideAccesssion: (string) (len=14) "NM_001276699.2",
+    HGVNucleotideChange: (string) (len=10) "c.516+1del",
+    HGVProteinAccession: (string) "",
+    HGVProteinChange: (string) "",
+    HGVConsequence: (string) (len=20) "splice donor variant"
+   },
+   (main.HGVData) {
+    HGVAssembly: (string) "",
+    HGVType: (string) (len=6) "coding",
+    HGVNucleotideAccesssion: (string) (len=14) "NM_001276698.2",
+    HGVNucleotideChange: (string) (len=10) "c.516+1del",
+    HGVProteinAccession: (string) "",
+    HGVProteinChange: (string) "",
+    HGVConsequence: (string) (len=20) "splice donor variant"
+   },
+   (main.HGVData) {
+    HGVAssembly: (string) "",
+    HGVType: (string) (len=6) "coding",
+    HGVNucleotideAccesssion: (string) (len=9) "LRG_321t4",
+    HGVNucleotideChange: (string) "",
+    HGVProteinAccession: (string) "",
+    HGVProteinChange: (string) "",
+    HGVConsequence: (string) ""
+   },
+   (main.HGVData) {
+    HGVAssembly: (string) "",
+    HGVType: (string) (len=6) "coding",
+    HGVNucleotideAccesssion: (string) (len=9) "LRG_321t3",
+    HGVNucleotideChange: (string) "",
+    HGVProteinAccession: (string) "",
+    HGVProteinChange: (string) "",
+    HGVConsequence: (string) ""
+   },
+   (main.HGVData) {
+    HGVAssembly: (string) "",
+    HGVType: (string) (len=6) "coding",
+    HGVNucleotideAccesssion: (string) (len=11) "NM_000546.5",
+    HGVNucleotideChange: (string) (len=11) "c.993+1delG",
+    HGVProteinAccession: (string) "",
+    HGVProteinChange: (string) "",
+    HGVConsequence: (string) ""
+   },
+   (main.HGVData) {
+    HGVAssembly: (string) "",
+    HGVType: (string) (len=6) "coding",
+    HGVNucleotideAccesssion: (string) (len=11) "NM_000546.5",
+    HGVNucleotideChange: (string) (len=11) "c.993+1delG",
+    HGVProteinAccession: (string) "",
+    HGVProteinChange: (string) "",
+    HGVConsequence: (string) ""
+   },
+   (main.HGVData) {
+    HGVAssembly: (string) "",
+    HGVType: (string) (len=7) "genomic",
+    HGVNucleotideAccesssion: (string) (len=7) "LRG_321",
+    HGVNucleotideChange: (string) "",
+    HGVProteinAccession: (string) "",
+    HGVProteinChange: (string) "",
+    HGVConsequence: (string) ""
+   },
+   (main.HGVData) {
+    HGVAssembly: (string) "",
+    HGVType: (string) (len=7) "genomic",
+    HGVNucleotideAccesssion: (string) (len=11) "NG_017013.2",
+    HGVNucleotideChange: (string) (len=10) "g.19017del",
+    HGVProteinAccession: (string) "",
+    HGVProteinChange: (string) "",
+    HGVConsequence: (string) ""
+   }
+  },
+  RCVData: ([]main.RCVData) (len=2 cap=2) {
+   (main.RCVData) {
+    RCVAccessionID: (string) (len=12) "RCV000492434",
+    RCVVersion: (string) (len=1) "1",
+    RCVInterpretation: (string) (len=10) "Pathogenic",
+    RCVCondition: (string) (len=39) "Hereditary cancer-predisposing syndrome",
+    RCVSubmissionCount: (string) (len=1) "1",
+    RCVReviewStatus: (string) (len=35) "criteria provided, single submitter",
+    RCVMedGenID: (string) (len=8) "C0027672",
+    RCVTraitSetID: (string) (len=5) "13598"
+   },
+   (main.RCVData) {
+    RCVAccessionID: (string) (len=12) "RCV000991147",
+    RCVVersion: (string) (len=1) "2",
+    RCVInterpretation: (string) (len=10) "Pathogenic",
+    RCVCondition: (string) (len=20) "Li-Fraumeni syndrome",
+    RCVSubmissionCount: (string) (len=1) "2",
+    RCVReviewStatus: (string) (len=24) "reviewed by expert panel",
+    RCVMedGenID: (string) (len=8) "C0085390",
+    RCVTraitSetID: (string) (len=4) "2589"
+   }
+  },
+  ClinicalInterpretations: (main.ClinicalInterpretations) {
+   InterpretationsCitations: ([]main.Citations) (len=2 cap=2) {
+    (main.Citations) {
+     CitationSource: (string) (len=6) "PubMed",
+     CitationID: (string) (len=8) "10980596"
+    },
+    (main.Citations) {
+     CitationSource: (string) "",
+     CitationID: (string) ""
+    }
+   },
+   Trait: ([]main.Traits) (len=2 cap=2) {
+    (main.Traits) {
+     ID: (string) (len=5) "18746",
+     Name: (string) (len=39) "Hereditary cancer-predisposing syndrome",
+     Citations: ([]main.Citations) (len=2 cap=2) {
+      (main.Citations) {
+       CitationSource: (string) (len=3) "pmc",
+       CitationID: (string) (len=7) "3075918"
+      },
+      (main.Citations) {
+       CitationSource: (string) (len=6) "PubMed",
+       CitationID: (string) (len=8) "25394175"
+      }
+     },
+     PhenotypicSeries: (string) "",
+     TraitMedGen: (string) (len=8) "C0027672",
+     TraitOrph: (string) (len=6) "140162"
+    },
+    (main.Traits) {
+     ID: (string) (len=5) "10539",
+     Name: (string) (len=20) "Li-Fraumeni syndrome",
+     Citations: ([]main.Citations) (len=4 cap=4) {
+      (main.Citations) {
+       CitationSource: (string) (len=6) "PubMed",
+       CitationID: (string) (len=8) "20301488"
+      },
+      (main.Citations) {
+       CitationSource: (string) (len=9) "BookShelf",
+       CitationID: (string) (len=7) "NBK1311"
+      },
+      (main.Citations) {
+       CitationSource: (string) (len=6) "PubMed",
+       CitationID: (string) (len=8) "17392385"
+      },
+      (main.Citations) {
+       CitationSource: (string) (len=6) "PubMed",
+       CitationID: (string) (len=8) "24493721"
+      }
+     },
+     PhenotypicSeries: (string) (len=8) "PS151623",
+     TraitMedGen: (string) (len=8) "C0085390",
+     TraitOrph: (string) (len=3) "524"
+    }
+   }
+  }
+ },
+ (main.ClinVarVariationData) {
+  VariantAccession: (string) (len=12) "VCV000429070",
+  VariantVersion: (string) (len=1) "5",
+  VariantType: (string) (len=25) "single nucleotide variant",
+  GeneAffected: (string) (len=3) "ATM",
+  GeneEntrezID: (string) (len=3) "472",
+  GeneOmimID: (string) (len=6) "607585",
+  NcbiRefSeq: (string) (len=26) "NC_000011.10:108268025:A:G",
+  LocationType: (string) (len=10) "withinGene",
+  DbSNPID: (string) (len=10) "1131691154",
+  GenomeVersion: (string) (len=6) "GRCh38",
+  ChromLocation: (string) (len=7) "11q22.3",
+  VariantChromStart: (string) (len=9) "108268026",
+  VariantChromStop: (string) (len=9) "108268026",
+  VariantLength: (string) (len=1) "1",
+  VariantOmimID: (string) (len=11) "notProvided",
+  VariantReviewStatus: (string) (len=52) "criteria provided, multiple submitters, no conflicts",
+  VariantInterpretation: (string) (len=17) "Likely pathogenic",
+  HGVData: ([]main.HGVData) (len=7 cap=8) {
+   (main.HGVData) {
+    HGVAssembly: (string) (len=6) "GRCh38",
+    HGVType: (string) (len=18) "genomic, top-level",
+    HGVNucleotideAccesssion: (string) (len=12) "NC_000011.10",
+    HGVNucleotideChange: (string) (len=14) "g.108268026A>G",
+    HGVProteinAccession: (string) "",
+    HGVProteinChange: (string) "",
+    HGVConsequence: (string) ""
+   },
+   (main.HGVData) {
+    HGVAssembly: (string) (len=6) "GRCh37",
+    HGVType: (string) (len=18) "genomic, top-level",
+    HGVNucleotideAccesssion: (string) (len=11) "NC_000011.9",
+    HGVNucleotideChange: (string) (len=14) "g.108138753A>G",
+    HGVProteinAccession: (string) "",
+    HGVProteinChange: (string) "",
+    HGVConsequence: (string) ""
+   },
+   (main.HGVData) {
+    HGVAssembly: (string) "",
+    HGVType: (string) (len=6) "coding",
+    HGVNucleotideAccesssion: (string) (len=14) "NM_001351834.2",
+    HGVNucleotideChange: (string) (len=13) "c.2639-384A>G",
+    HGVProteinAccession: (string) "",
+    HGVProteinChange: (string) "",
+    HGVConsequence: (string) (len=14) "intron variant"
+   },
+   (main.HGVData) {
+    HGVAssembly: (string) "",
+    HGVType: (string) (len=6) "coding",
+    HGVNucleotideAccesssion: (string) (len=11) "NM_000051.3",
+    HGVNucleotideChange: (string) (len=13) "c.2639-384A>G",
+    HGVProteinAccession: (string) "",
+    HGVProteinChange: (string) "",
+    HGVConsequence: (string) (len=14) "intron variant"
+   },
+   (main.HGVData) {
+    HGVAssembly: (string) "",
+    HGVType: (string) (len=6) "coding",
+    HGVNucleotideAccesssion: (string) (len=9) "LRG_135t1",
+    HGVNucleotideChange: (string) (len=13) "c.2639-384A>G",
+    HGVProteinAccession: (string) "",
+    HGVProteinChange: (string) "",
+    HGVConsequence: (string) ""
+   },
+   (main.HGVData) {
+    HGVAssembly: (string) "",
+    HGVType: (string) (len=7) "genomic",
+    HGVNucleotideAccesssion: (string) (len=11) "NG_009830.1",
+    HGVNucleotideChange: (string) (len=10) "g.50195A>G",
+    HGVProteinAccession: (string) "",
+    HGVProteinChange: (string) "",
+    HGVConsequence: (string) ""
+   },
+   (main.HGVData) {
+    HGVAssembly: (string) "",
+    HGVType: (string) (len=7) "genomic",
+    HGVNucleotideAccesssion: (string) (len=7) "LRG_135",
+    HGVNucleotideChange: (string) (len=10) "g.50195A>G",
+    HGVProteinAccession: (string) "",
+    HGVProteinChange: (string) "",
+    HGVConsequence: (string) ""
+   }
+  },
+  RCVData: ([]main.RCVData) (len=2 cap=2) {
+   (main.RCVData) {
+    RCVAccessionID: (string) (len=12) "RCV000493875",
+    RCVVersion: (string) (len=1) "3",
+    RCVInterpretation: (string) (len=17) "Likely pathogenic",
+    RCVCondition: (string) (len=39) "Hereditary cancer-predisposing syndrome",
+    RCVSubmissionCount: (string) (len=1) "2",
+    RCVReviewStatus: (string) (len=52) "criteria provided, multiple submitters, no conflicts",
+    RCVMedGenID: (string) (len=8) "C0027672",
+    RCVTraitSetID: (string) (len=5) "13598"
+   },
+   (main.RCVData) {
+    RCVAccessionID: (string) (len=12) "RCV001271168",
+    RCVVersion: (string) (len=1) "1",
+    RCVInterpretation: (string) (len=17) "Likely pathogenic",
+    RCVCondition: (string) (len=30) "Ataxia-telangiectasia syndrome",
+    RCVSubmissionCount: (string) (len=1) "1",
+    RCVReviewStatus: (string) (len=30) "no assertion criteria provided",
+    RCVMedGenID: (string) (len=8) "C0004135",
+    RCVTraitSetID: (string) (len=3) "770"
+   }
+  },
+  ClinicalInterpretations: (main.ClinicalInterpretations) {
+   InterpretationsCitations: ([]main.Citations) (len=3 cap=4) {
+    (main.Citations) {
+     CitationSource: (string) (len=6) "PubMed",
+     CitationID: (string) (len=8) "22006793"
+    },
+    (main.Citations) {
+     CitationSource: (string) (len=6) "PubMed",
+     CitationID: (string) (len=8) "24506781"
+    },
+    (main.Citations) {
+     CitationSource: (string) (len=6) "PubMed",
+     CitationID: (string) (len=8) "31050087"
+    }
+   },
+   Trait: ([]main.Traits) (len=2 cap=2) {
+    (main.Traits) {
+     ID: (string) (len=5) "18746",
+     Name: (string) (len=39) "Hereditary cancer-predisposing syndrome",
+     Citations: ([]main.Citations) (len=2 cap=2) {
+      (main.Citations) {
+       CitationSource: (string) (len=3) "pmc",
+       CitationID: (string) (len=7) "3075918"
+      },
+      (main.Citations) {
+       CitationSource: (string) (len=6) "PubMed",
+       CitationID: (string) (len=8) "25394175"
+      }
+     },
+     PhenotypicSeries: (string) "",
+     TraitMedGen: (string) (len=8) "C0027672",
+     TraitOrph: (string) (len=6) "140162"
+    },
+    (main.Traits) {
+     ID: (string) (len=4) "4635",
+     Name: (string) (len=30) "Ataxia-telangiectasia syndrome",
+     Citations: ([]main.Citations) (len=6 cap=8) {
+      (main.Citations) {
+       CitationSource: (string) (len=6) "PubMed",
+       CitationID: (string) (len=8) "20301790"
+      },
+      (main.Citations) {
+       CitationSource: (string) (len=9) "BookShelf",
+       CitationID: (string) (len=8) "NBK26468"
+      },
+      (main.Citations) {
+       CitationSource: (string) (len=6) "PubMed",
+       CitationID: (string) (len=8) "20301317"
+      },
+      (main.Citations) {
+       CitationSource: (string) (len=9) "BookShelf",
+       CitationID: (string) (len=7) "NBK1138"
+      },
+      (main.Citations) {
+       CitationSource: (string) (len=6) "PubMed",
+       CitationID: (string) (len=8) "20050888"
+      },
+      (main.Citations) {
+       CitationSource: (string) (len=6) "PubMed",
+       CitationID: (string) (len=8) "24418350"
+      }
+     },
+     PhenotypicSeries: (string) "",
+     TraitMedGen: (string) (len=8) "C0004135",
+     TraitOrph: (string) (len=3) "100"
+    }
+   }
+  }
+ },
+ (main.ClinVarVariationData) {
+  VariantAccession: (string) (len=12) "VCV000429171",
+  VariantVersion: (string) (len=1) "7",
+  VariantType: (string) (len=25) "single nucleotide variant",
+  GeneAffected: (string) (len=2) "FH",
+  GeneEntrezID: (string) (len=4) "2271",
+  GeneOmimID: (string) (len=6) "136850",
+  NcbiRefSeq: (string) (len=26) "NC_000001.11:241508638:A:C",
+  LocationType: (string) (len=10) "withinGene",
+  DbSNPID: (string) (len=9) "201083387",
+  GenomeVersion: (string) (len=6) "GRCh38",
+  ChromLocation: (string) (len=4) "1q43",
+  VariantChromStart: (string) (len=9) "241508639",
+  VariantChromStop: (string) (len=9) "241508639",
+  VariantLength: (string) (len=1) "1",
+  VariantOmimID: (string) (len=11) "notProvided",
+  VariantReviewStatus: (string) (len=52) "criteria provided, multiple submitters, no conflicts",
+  VariantInterpretation: (string) (len=20) "Benign/Likely benign",
+  HGVData: ([]main.HGVData) (len=6 cap=8) {
+   (main.HGVData) {
+    HGVAssembly: (string) "",
+    HGVType: (string) (len=7) "genomic",
+    HGVNucleotideAccesssion: (string) (len=7) "LRG_504",
+    HGVNucleotideChange: (string) (len=10) "g.16116T>G",
+    HGVProteinAccession: (string) "",
+    HGVProteinChange: (string) "",
+    HGVConsequence: (string) ""
+   },
+   (main.HGVData) {
+    HGVAssembly: (string) (len=6) "GRCh37",
+    HGVType: (string) (len=18) "genomic, top-level",
+    HGVNucleotideAccesssion: (string) (len=12) "NC_000001.10",
+    HGVNucleotideChange: (string) (len=14) "g.241671939A>C",
+    HGVProteinAccession: (string) "",
+    HGVProteinChange: (string) "",
+    HGVConsequence: (string) ""
+   },
+   (main.HGVData) {
+    HGVAssembly: (string) (len=6) "GRCh38",
+    HGVType: (string) (len=18) "genomic, top-level",
+    HGVNucleotideAccesssion: (string) (len=12) "NC_000001.11",
+    HGVNucleotideChange: (string) (len=14) "g.241508639A>C",
+    HGVProteinAccession: (string) "",
+    HGVProteinChange: (string) "",
+    HGVConsequence: (string) ""
+   },
+   (main.HGVData) {
+    HGVAssembly: (string) "",
+    HGVType: (string) (len=6) "coding",
+    HGVNucleotideAccesssion: (string) (len=11) "NM_000143.3",
+    HGVNucleotideChange: (string) (len=8) "c.702T>G",
+    HGVProteinAccession: (string) (len=11) "NP_000134.2",
+    HGVProteinChange: (string) (len=9) "p.Thr234=",
+    HGVConsequence: (string) (len=18) "synonymous variant"
+   },
+   (main.HGVData) {
+    HGVAssembly: (string) "",
+    HGVType: (string) (len=6) "coding",
+    HGVNucleotideAccesssion: (string) (len=9) "LRG_504t1",
+    HGVNucleotideChange: (string) (len=8) "c.702T>G",
+    HGVProteinAccession: (string) (len=9) "LRG_504p1",
+    HGVProteinChange: (string) (len=9) "p.Thr234=",
+    HGVConsequence: (string) ""
+   },
+   (main.HGVData) {
+    HGVAssembly: (string) "",
+    HGVType: (string) (len=7) "genomic",
+    HGVNucleotideAccesssion: (string) (len=11) "NG_012338.1",
+    HGVNucleotideChange: (string) (len=10) "g.16116T>G",
+    HGVProteinAccession: (string) "",
+    HGVProteinChange: (string) "",
+    HGVConsequence: (string) ""
+   }
+  },
+  RCVData: ([]main.RCVData) (len=3 cap=4) {
+   (main.RCVData) {
+    RCVAccessionID: (string) (len=12) "RCV000494047",
+    RCVVersion: (string) (len=1) "2",
+    RCVInterpretation: (string) (len=13) "Likely benign",
+    RCVCondition: (string) (len=39) "Hereditary cancer-predisposing syndrome",
+    RCVSubmissionCount: (string) (len=1) "1",
+    RCVReviewStatus: (string) (len=35) "criteria provided, single submitter",
+    RCVMedGenID: (string) (len=8) "C0027672",
+    RCVTraitSetID: (string) (len=5) "13598"
+   },
+   (main.RCVData) {
+    RCVAccessionID: (string) (len=12) "RCV000827769",
+    RCVVersion: (string) (len=1) "3",
+    RCVInterpretation: (string) (len=13) "Likely benign",
+    RCVCondition: (string) (len=12) "not provided",
+    RCVSubmissionCount: (string) (len=1) "1",
+    RCVReviewStatus: (string) (len=35) "criteria provided, single submitter",
+    RCVMedGenID: (string) (len=8) "CN517202",
+    RCVTraitSetID: (string) (len=4) "9460"
+   },
+   (main.RCVData) {
+    RCVAccessionID: (string) (len=12) "RCV001083333",
+    RCVVersion: (string) (len=1) "2",
+    RCVInterpretation: (string) (len=6) "Benign",
+    RCVCondition: (string) (len=19) "Fumarase deficiency",
+    RCVSubmissionCount: (string) (len=1) "2",
+    RCVReviewStatus: (string) (len=35) "criteria provided, single submitter",
+    RCVMedGenID: (string) (len=8) "C0342770",
+    RCVTraitSetID: (string) (len=4) "5266"
+   }
+  },
+  ClinicalInterpretations: (main.ClinicalInterpretations) {
+   InterpretationsCitations: ([]main.Citations) (len=1 cap=1) {
+    (main.Citations) {
+     CitationSource: (string) (len=6) "PubMed",
+     CitationID: (string) (len=8) "19339519"
+    }
+   },
+   Trait: ([]main.Traits) (len=3 cap=4) {
+    (main.Traits) {
+     ID: (string) (len=5) "17556",
+     Name: (string) (len=12) "not provided",
+     Citations: ([]main.Citations) <nil>,
+     PhenotypicSeries: (string) "",
+     TraitMedGen: (string) (len=8) "CN517202",
+     TraitOrph: (string) ""
+    },
+    (main.Traits) {
+     ID: (string) (len=5) "18746",
+     Name: (string) (len=39) "Hereditary cancer-predisposing syndrome",
+     Citations: ([]main.Citations) (len=2 cap=2) {
+      (main.Citations) {
+       CitationSource: (string) (len=3) "pmc",
+       CitationID: (string) (len=7) "3075918"
+      },
+      (main.Citations) {
+       CitationSource: (string) (len=6) "PubMed",
+       CitationID: (string) (len=8) "25394175"
+      }
+     },
+     PhenotypicSeries: (string) "",
+     TraitMedGen: (string) (len=8) "C0027672",
+     TraitOrph: (string) (len=6) "140162"
+    },
+    (main.Traits) {
+     ID: (string) (len=4) "2154",
+     Name: (string) (len=19) "Fumarase deficiency",
+     Citations: ([]main.Citations) (len=2 cap=2) {
+      (main.Citations) {
+       CitationSource: (string) (len=6) "PubMed",
+       CitationID: (string) (len=8) "20301679"
+      },
+      (main.Citations) {
+       CitationSource: (string) (len=9) "BookShelf",
+       CitationID: (string) (len=7) "NBK1506"
+      }
+     },
+     PhenotypicSeries: (string) "",
+     TraitMedGen: (string) (len=8) "C0342770",
+     TraitOrph: (string) (len=2) "24"
+    }
+   }
+  }
+ },
+ (main.ClinVarVariationData) {
+  VariantAccession: (string) (len=12) "VCV000429303",
+  VariantVersion: (string) (len=1) "4",
+  VariantType: (string) (len=11) "Duplication",
+  GeneAffected: (string) (len=5) "CHRNE",
+  GeneEntrezID: (string) (len=4) "1145",
+  GeneOmimID: (string) (len=6) "100725",
+  NcbiRefSeq: (string) (len=37) "NC_000017.11:4902622:GTGAG:GTGAGGTGAG",
+  LocationType: (string) (len=10) "withinGene",
+  DbSNPID: (string) (len=9) "776927709",
+  GenomeVersion: (string) (len=6) "GRCh38",
+  ChromLocation: (string) (len=7) "17p13.2",
+  VariantChromStart: (string) (len=7) "4902622",
+  VariantChromStop: (string) (len=7) "4902623",
+  VariantLength: (string) (len=1) "5",
+  VariantOmimID: (string) (len=11) "notProvided",
+  VariantReviewStatus: (string) (len=52) "criteria provided, multiple submitters, no conflicts",
+  VariantInterpretation: (string) (len=28) "Pathogenic/Likely pathogenic",
+  HGVData: ([]main.HGVData) (len=9 cap=16) {
+   (main.HGVData) {
+    HGVAssembly: (string) (len=6) "GRCh37",
+    HGVType: (string) (len=18) "genomic, top-level",
+    HGVNucleotideAccesssion: (string) (len=12) "NC_000017.10",
+    HGVNucleotideChange: (string) (len=20) "g.4805918_4805922dup",
+    HGVProteinAccession: (string) "",
+    HGVProteinChange: (string) "",
+    HGVConsequence: (string) ""
+   },
+   (main.HGVData) {
+    HGVAssembly: (string) (len=6) "GRCh38",
+    HGVType: (string) (len=18) "genomic, top-level",
+    HGVNucleotideAccesssion: (string) (len=12) "NC_000017.11",
+    HGVNucleotideChange: (string) (len=20) "g.4902623_4902627dup",
+    HGVProteinAccession: (string) "",
+    HGVProteinChange: (string) "",
+    HGVConsequence: (string) ""
+   },
+   (main.HGVData) {
+    HGVAssembly: (string) "",
+    HGVType: (string) (len=6) "coding",
+    HGVNucleotideAccesssion: (string) (len=11) "NM_000080.4",
+    HGVNucleotideChange: (string) (len=12) "c.183_187dup",
+    HGVProteinAccession: (string) (len=11) "NP_000071.1",
+    HGVProteinChange: (string) (len=9) "p.Leu63fs",
+    HGVConsequence: (string) (len=18) "frameshift variant"
+   },
+   (main.HGVData) {
+    HGVAssembly: (string) "",
+    HGVType: (string) (len=6) "coding",
+    HGVNucleotideAccesssion: (string) (len=14) "NM_001145536.2",
+    HGVNucleotideChange: (string) (len=16) "c.*2090_*2094dup",
+    HGVProteinAccession: (string) "",
+    HGVProteinChange: (string) "",
+    HGVConsequence: (string) (len=19) "3 prime UTR variant"
+   },
+   (main.HGVData) {
+    HGVAssembly: (string) "",
+    HGVType: (string) (len=6) "coding",
+    HGVNucleotideAccesssion: (string) (len=11) "NM_000080.4",
+    HGVNucleotideChange: (string) (len=17) "c.183_187dupCTCAC",
+    HGVProteinAccession: (string) "",
+    HGVProteinChange: (string) "",
+    HGVConsequence: (string) ""
+   },
+   (main.HGVData) {
+    HGVAssembly: (string) "",
+    HGVType: (string) (len=6) "coding",
+    HGVNucleotideAccesssion: (string) (len=11) "NM_000080.3",
+    HGVNucleotideChange: (string) (len=17) "c.183_187dupCTCAC",
+    HGVProteinAccession: (string) "",
+    HGVProteinChange: (string) "",
+    HGVConsequence: (string) ""
+   },
+   (main.HGVData) {
+    HGVAssembly: (string) "",
+    HGVType: (string) (len=6) "coding",
+    HGVNucleotideAccesssion: (string) (len=10) "LRG_1254t1",
+    HGVNucleotideChange: (string) (len=12) "c.183_187dup",
+    HGVProteinAccession: (string) (len=10) "LRG_1254p1",
+    HGVProteinChange: (string) (len=9) "p.Leu63fs",
+    HGVConsequence: (string) ""
+   },
+   (main.HGVData) {
+    HGVAssembly: (string) "",
+    HGVType: (string) (len=7) "genomic",
+    HGVNucleotideAccesssion: (string) (len=11) "NG_008029.2",
+    HGVNucleotideChange: (string) (len=14) "g.5449_5453dup",
+    HGVProteinAccession: (string) "",
+    HGVProteinChange: (string) "",
+    HGVConsequence: (string) ""
+   },
+   (main.HGVData) {
+    HGVAssembly: (string) "",
+    HGVType: (string) (len=7) "genomic",
+    HGVNucleotideAccesssion: (string) (len=8) "LRG_1254",
+    HGVNucleotideChange: (string) (len=14) "g.5449_5453dup",
+    HGVProteinAccession: (string) "",
+    HGVProteinChange: (string) "",
+    HGVConsequence: (string) ""
+   }
+  },
+  RCVData: ([]main.RCVData) (len=2 cap=2) {
+   (main.RCVData) {
+    RCVAccessionID: (string) (len=12) "RCV000493520",
+    RCVVersion: (string) (len=1) "1",
+    RCVInterpretation: (string) (len=10) "Pathogenic",
+    RCVCondition: (string) (len=12) "not provided",
+    RCVSubmissionCount: (string) (len=1) "1",
+    RCVReviewStatus: (string) (len=35) "criteria provided, single submitter",
+    RCVMedGenID: (string) (len=8) "CN517202",
+    RCVTraitSetID: (string) (len=4) "9460"
+   },
+   (main.RCVData) {
+    RCVAccessionID: (string) (len=12) "RCV000779224",
+    RCVVersion: (string) (len=1) "2",
+    RCVInterpretation: (string) (len=17) "Likely pathogenic",
+    RCVCondition: (string) (len=30) "Congenital myasthenic syndrome",
+    RCVSubmissionCount: (string) (len=1) "2",
+    RCVReviewStatus: (string) (len=35) "criteria provided, single submitter",
+    RCVMedGenID: (string) (len=8) "C0751882",
+    RCVTraitSetID: (string) (len=4) "9634"
+   }
+  },
+  ClinicalInterpretations: (main.ClinicalInterpretations) {
+   InterpretationsCitations: ([]main.Citations) (len=3 cap=4) {
+    (main.Citations) {
+     CitationSource: (string) (len=6) "PubMed",
+     CitationID: (string) (len=8) "21150643"
+    },
+    (main.Citations) {
+     CitationSource: (string) (len=6) "PubMed",
+     CitationID: (string) (len=8) "27717316"
+    },
+    (main.Citations) {
+     CitationSource: (string) (len=6) "PubMed",
+     CitationID: (string) (len=7) "9158150"
+    }
+   },
+   Trait: ([]main.Traits) (len=2 cap=2) {
+    (main.Traits) {
+     ID: (string) (len=4) "9474",
+     Name: (string) (len=30) "Congenital myasthenic syndrome",
+     Citations: ([]main.Citations) (len=2 cap=2) {
+      (main.Citations) {
+       CitationSource: (string) (len=6) "PubMed",
+       CitationID: (string) (len=8) "20301347"
+      },
+      (main.Citations) {
+       CitationSource: (string) (len=9) "BookShelf",
+       CitationID: (string) (len=7) "NBK1168"
+      }
+     },
+     PhenotypicSeries: (string) (len=8) "PS601462",
+     TraitMedGen: (string) (len=8) "C0751882",
+     TraitOrph: (string) (len=3) "590"
+    },
+    (main.Traits) {
+     ID: (string) (len=5) "17556",
+     Name: (string) (len=12) "not provided",
+     Citations: ([]main.Citations) <nil>,
+     PhenotypicSeries: (string) "",
+     TraitMedGen: (string) (len=8) "CN517202",
+     TraitOrph: (string) ""
+    }
+   }
+  }
+ },
+ (main.ClinVarVariationData) {
+  VariantAccession: (string) (len=12) "VCV000429390",
+  VariantVersion: (string) (len=1) "3",
+  VariantType: (string) (len=25) "single nucleotide variant",
+  GeneAffected: (string) (len=4) "ALPL",
+  GeneEntrezID: (string) (len=3) "249",
+  GeneOmimID: (string) (len=6) "171760",
+  NcbiRefSeq: (string) (len=25) "NC_000001.11:21577421:G:A",
+  LocationType: (string) (len=10) "withinGene",
+  DbSNPID: (string) (len=9) "150799088",
+  GenomeVersion: (string) (len=6) "GRCh38",
+  ChromLocation: (string) (len=7) "1p36.12",
+  VariantChromStart: (string) (len=8) "21577422",
+  VariantChromStop: (string) (len=8) "21577422",
+  VariantLength: (string) (len=1) "1",
+  VariantOmimID: (string) (len=11) "notProvided",
+  VariantReviewStatus: (string) (len=52) "criteria provided, multiple submitters, no conflicts",
+  VariantInterpretation: (string) (len=22) "Uncertain significance",
+  HGVData: ([]main.HGVData) (len=9 cap=16) {
+   (main.HGVData) {
+    HGVAssembly: (string) (len=6) "GRCh37",
+    HGVType: (string) (len=18) "genomic, top-level",
+    HGVNucleotideAccesssion: (string) (len=12) "NC_000001.10",
+    HGVNucleotideChange: (string) (len=13) "g.21903915G>A",
+    HGVProteinAccession: (string) "",
+    HGVProteinChange: (string) "",
+    HGVConsequence: (string) ""
+   },
+   (main.HGVData) {
+    HGVAssembly: (string) (len=6) "GRCh38",
+    HGVType: (string) (len=18) "genomic, top-level",
+    HGVNucleotideAccesssion: (string) (len=12) "NC_000001.11",
+    HGVNucleotideChange: (string) (len=13) "g.21577422G>A",
+    HGVProteinAccession: (string) "",
+    HGVProteinChange: (string) "",
+    HGVConsequence: (string) ""
+   },
+   (main.HGVData) {
+    HGVAssembly: (string) "",
+    HGVType: (string) (len=6) "coding",
+    HGVNucleotideAccesssion: (string) (len=11) "NM_000478.6",
+    HGVNucleotideChange: (string) (len=9) "c.1349G>A",
+    HGVProteinAccession: (string) (len=11) "NP_000469.3",
+    HGVProteinChange: (string) (len=11) "p.Arg450His",
+    HGVConsequence: (string) (len=16) "missense variant"
+   },
+   (main.HGVData) {
+    HGVAssembly: (string) "",
+    HGVType: (string) (len=6) "coding",
+    HGVNucleotideAccesssion: (string) (len=14) "NM_001127501.4",
+    HGVNucleotideChange: (string) (len=9) "c.1184G>A",
+    HGVProteinAccession: (string) (len=14) "NP_001120973.2",
+    HGVProteinChange: (string) (len=11) "p.Arg395His",
+    HGVConsequence: (string) (len=16) "missense variant"
+   },
+   (main.HGVData) {
+    HGVAssembly: (string) "",
+    HGVType: (string) (len=6) "coding",
+    HGVNucleotideAccesssion: (string) (len=14) "NM_001177520.3",
+    HGVNucleotideChange: (string) (len=9) "c.1118G>A",
+    HGVProteinAccession: (string) (len=14) "NP_001170991.1",
+    HGVProteinChange: (string) (len=11) "p.Arg373His",
+    HGVConsequence: (string) (len=16) "missense variant"
+   },
+   (main.HGVData) {
+    HGVAssembly: (string) "",
+    HGVType: (string) (len=6) "coding",
+    HGVNucleotideAccesssion: (string) (len=14) "NM_001369803.2",
+    HGVNucleotideChange: (string) (len=9) "c.1349G>A",
+    HGVProteinAccession: (string) (len=14) "NP_001356732.1",
+    HGVProteinChange: (string) (len=11) "p.Arg450His",
+    HGVConsequence: (string) (len=16) "missense variant"
+   },
+   (main.HGVData) {
+    HGVAssembly: (string) "",
+    HGVType: (string) (len=6) "coding",
+    HGVNucleotideAccesssion: (string) (len=14) "NM_001369804.2",
+    HGVNucleotideChange: (string) (len=9) "c.1349G>A",
+    HGVProteinAccession: (string) (len=14) "NP_001356733.1",
+    HGVProteinChange: (string) (len=11) "p.Arg450His",
+    HGVConsequence: (string) (len=16) "missense variant"
+   },
+   (main.HGVData) {
+    HGVAssembly: (string) "",
+    HGVType: (string) (len=6) "coding",
+    HGVNucleotideAccesssion: (string) (len=14) "NM_001369805.2",
+    HGVNucleotideChange: (string) (len=9) "c.1349G>A",
+    HGVProteinAccession: (string) (len=14) "NP_001356734.1",
+    HGVProteinChange: (string) (len=11) "p.Arg450His",
+    HGVConsequence: (string) (len=16) "missense variant"
+   },
+   (main.HGVData) {
+    HGVAssembly: (string) "",
+    HGVType: (string) (len=7) "genomic",
+    HGVNucleotideAccesssion: (string) (len=11) "NG_008940.1",
+    HGVNucleotideChange: (string) (len=10) "g.73058G>A",
+    HGVProteinAccession: (string) "",
+    HGVProteinChange: (string) "",
+    HGVConsequence: (string) ""
+   }
+  },
+  RCVData: ([]main.RCVData) (len=3 cap=4) {
+   (main.RCVData) {
+    RCVAccessionID: (string) (len=12) "RCV000670256",
+    RCVVersion: (string) (len=1) "1",
+    RCVInterpretation: (string) (len=22) "Uncertain significance",
+    RCVCondition: (string) (len=26) "Infantile hypophosphatasia",
+    RCVSubmissionCount: (string) (len=1) "1",
+    RCVReviewStatus: (string) (len=35) "criteria provided, single submitter",
+    RCVMedGenID: (string) (len=8) "C0268412",
+    RCVTraitSetID: (string) (len=4) "3766"
+   },
+   (main.RCVData) {
+    RCVAccessionID: (string) (len=12) "RCV000755807",
+    RCVVersion: (string) (len=1) "2",
+    RCVInterpretation: (string) (len=22) "Uncertain significance",
+    RCVCondition: (string) (len=12) "not provided",
+    RCVSubmissionCount: (string) (len=1) "2",
+    RCVReviewStatus: (string) (len=52) "criteria provided, multiple submitters, no conflicts",
+    RCVMedGenID: (string) (len=8) "CN517202",
+    RCVTraitSetID: (string) (len=4) "9460"
+   },
+   (main.RCVData) {
+    RCVAccessionID: (string) (len=12) "RCV001275111",
+    RCVVersion: (string) (len=1) "1",
+    RCVInterpretation: (string) (len=22) "Uncertain significance",
+    RCVCondition: (string) (len=16) "Hypophosphatasia",
+    RCVSubmissionCount: (string) (len=1) "1",
+    RCVReviewStatus: (string) (len=30) "no assertion criteria provided",
+    RCVMedGenID: (string) (len=8) "C0020630",
+    RCVTraitSetID: (string) (len=4) "8894"
+   }
+  },
+  ClinicalInterpretations: (main.ClinicalInterpretations) {
+   InterpretationsCitations: ([]main.Citations) (len=3 cap=4) {
+    (main.Citations) {
+     CitationSource: (string) (len=6) "PubMed",
+     CitationID: (string) (len=8) "10679946"
+    },
+    (main.Citations) {
+     CitationSource: (string) (len=6) "PubMed",
+     CitationID: (string) (len=8) "17212778"
+    },
+    (main.Citations) {
+     CitationSource: (string) (len=6) "PubMed",
+     CitationID: (string) (len=8) "25023282"
+    }
+   },
+   Trait: ([]main.Traits) (len=3 cap=4) {
+    (main.Traits) {
+     ID: (string) (len=4) "2390",
+     Name: (string) (len=26) "Infantile hypophosphatasia",
+     Citations: ([]main.Citations) (len=3 cap=4) {
+      (main.Citations) {
+       CitationSource: (string) (len=6) "PubMed",
+       CitationID: (string) (len=8) "20301329"
+      },
+      (main.Citations) {
+       CitationSource: (string) (len=9) "BookShelf",
+       CitationID: (string) (len=7) "NBK1150"
+      },
+      (main.Citations) {
+       CitationSource: (string) (len=3) "pmc",
+       CitationID: (string) (len=7) "3061990"
+      }
+     },
+     PhenotypicSeries: (string) "",
+     TraitMedGen: (string) (len=8) "C0268412",
+     TraitOrph: (string) (len=3) "436"
+    },
+    (main.Traits) {
+     ID: (string) (len=5) "14484",
+     Name: (string) (len=16) "Hypophosphatasia",
+     Citations: ([]main.Citations) (len=2 cap=2) {
+      (main.Citations) {
+       CitationSource: (string) (len=6) "PubMed",
+       CitationID: (string) (len=8) "20301329"
+      },
+      (main.Citations) {
+       CitationSource: (string) (len=9) "BookShelf",
+       CitationID: (string) (len=7) "NBK1150"
+      }
+     },
+     PhenotypicSeries: (string) "",
+     TraitMedGen: (string) (len=8) "C0020630",
+     TraitOrph: (string) (len=3) "436"
+    },
+    (main.Traits) {
+     ID: (string) (len=5) "17556",
+     Name: (string) (len=12) "not provided",
+     Citations: ([]main.Citations) <nil>,
+     PhenotypicSeries: (string) "",
+     TraitMedGen: (string) (len=8) "CN517202",
+     TraitOrph: (string) ""
+    }
+   }
+  }
+ },
+ (main.ClinVarVariationData) {
+  VariantAccession: (string) (len=12) "VCV000429443",
+  VariantVersion: (string) (len=1) "3",
+  VariantType: (string) (len=8) "Deletion",
+  GeneAffected: (string) (len=6) "COL7A1",
+  GeneEntrezID: (string) (len=4) "1294",
+  GeneOmimID: (string) (len=6) "120120",
+  NcbiRefSeq: (string) (len=30) "NC_000003.12:48592658:CCCC:CCC",
+  LocationType: (string) (len=10) "withinGene",
+  DbSNPID: (string) (len=10) "1131691385",
+  GenomeVersion: (string) (len=6) "GRCh38",
+  ChromLocation: (string) (len=7) "3p21.31",
+  VariantChromStart: (string) (len=8) "48592659",
+  VariantChromStop: (string) (len=8) "48592659",
+  VariantLength: (string) (len=1) "1",
+  VariantOmimID: (string) (len=11) "notProvided",
+  VariantReviewStatus: (string) (len=35) "criteria provided, single submitter",
+  VariantInterpretation: (string) (len=10) "Pathogenic",
+  HGVData: ([]main.HGVData) (len=7 cap=8) {
+   (main.HGVData) {
+    HGVAssembly: (string) (len=6) "GRCh37",
+    HGVType: (string) (len=18) "genomic, top-level",
+    HGVNucleotideAccesssion: (string) (len=12) "NC_000003.11",
+    HGVNucleotideChange: (string) (len=13) "g.48630095del",
+    HGVProteinAccession: (string) "",
+    HGVProteinChange: (string) "",
+    HGVConsequence: (string) ""
+   },
+   (main.HGVData) {
+    HGVAssembly: (string) (len=6) "GRCh38",
+    HGVType: (string) (len=18) "genomic, top-level",
+    HGVNucleotideAccesssion: (string) (len=12) "NC_000003.12",
+    HGVNucleotideChange: (string) (len=13) "g.48592662del",
+    HGVProteinAccession: (string) "",
+    HGVProteinChange: (string) "",
+    HGVConsequence: (string) ""
+   },
+   (main.HGVData) {
+    HGVAssembly: (string) "",
+    HGVType: (string) (len=6) "coding",
+    HGVNucleotideAccesssion: (string) (len=11) "NM_000094.3",
+    HGVNucleotideChange: (string) (len=8) "c.887del",
+    HGVProteinAccession: (string) (len=11) "NP_000085.1",
+    HGVProteinChange: (string) (len=10) "p.Gly296fs",
+    HGVConsequence: (string) (len=18) "frameshift variant"
+   },
+   (main.HGVData) {
+    HGVAssembly: (string) "",
+    HGVType: (string) (len=6) "coding",
+    HGVNucleotideAccesssion: (string) (len=9) "LRG_286t1",
+    HGVNucleotideChange: (string) (len=8) "c.887del",
+    HGVProteinAccession: (string) (len=9) "LRG_286p1",
+    HGVProteinChange: (string) (len=10) "p.Gly296fs",
+    HGVConsequence: (string) ""
+   },
+   (main.HGVData) {
+    HGVAssembly: (string) "",
+    HGVType: (string) (len=6) "coding",
+    HGVNucleotideAccesssion: (string) (len=11) "NM_000094.3",
+    HGVNucleotideChange: (string) (len=9) "c.887delG",
+    HGVProteinAccession: (string) "",
+    HGVProteinChange: (string) "",
+    HGVConsequence: (string) (len=18) "frameshift variant"
+   },
+   (main.HGVData) {
+    HGVAssembly: (string) "",
+    HGVType: (string) (len=7) "genomic",
+    HGVNucleotideAccesssion: (string) (len=11) "NG_007065.1",
+    HGVNucleotideChange: (string) (len=9) "g.7594del",
+    HGVProteinAccession: (string) "",
+    HGVProteinChange: (string) "",
+    HGVConsequence: (string) ""
+   },
+   (main.HGVData) {
+    HGVAssembly: (string) "",
+    HGVType: (string) (len=7) "genomic",
+    HGVNucleotideAccesssion: (string) (len=7) "LRG_286",
+    HGVNucleotideChange: (string) (len=9) "g.7594del",
+    HGVProteinAccession: (string) "",
+    HGVProteinChange: (string) "",
+    HGVConsequence: (string) ""
+   }
+  },
+  RCVData: ([]main.RCVData) (len=2 cap=2) {
+   (main.RCVData) {
+    RCVAccessionID: (string) (len=12) "RCV000493245",
+    RCVVersion: (string) (len=1) "2",
+    RCVInterpretation: (string) (len=10) "Pathogenic",
+    RCVCondition: (string) (len=12) "not provided",
+    RCVSubmissionCount: (string) (len=1) "1",
+    RCVReviewStatus: (string) (len=35) "criteria provided, single submitter",
+    RCVMedGenID: (string) (len=8) "CN517202",
+    RCVTraitSetID: (string) (len=4) "9460"
+   },
+   (main.RCVData) {
+    RCVAccessionID: (string) (len=12) "RCV001273343",
+    RCVVersion: (string) (len=1) "1",
+    RCVInterpretation: (string) (len=10) "Pathogenic",
+    RCVCondition: (string) (len=62) "Epidermolysis bullosa dystrophica inversa, autosomal recessive",
+    RCVSubmissionCount: (string) (len=1) "1",
+    RCVReviewStatus: (string) (len=30) "no assertion criteria provided",
+    RCVMedGenID: (string) (len=8) "C2673612",
+    RCVTraitSetID: (string) (len=4) "5738"
+   }
+  },
+  ClinicalInterpretations: (main.ClinicalInterpretations) {
+   InterpretationsCitations: ([]main.Citations) {
+   },
+   Trait: ([]main.Traits) (len=2 cap=2) {
+    (main.Traits) {
+     ID: (string) (len=4) "8933",
+     Name: (string) (len=62) "Epidermolysis bullosa dystrophica inversa, autosomal recessive",
+     Citations: ([]main.Citations) <nil>,
+     PhenotypicSeries: (string) "",
+     TraitMedGen: (string) (len=8) "C2673612",
+     TraitOrph: (string) ""
+    },
+    (main.Traits) {
+     ID: (string) (len=5) "17556",
+     Name: (string) (len=12) "not provided",
+     Citations: ([]main.Citations) <nil>,
+     PhenotypicSeries: (string) "",
+     TraitMedGen: (string) (len=8) "CN517202",
+     TraitOrph: (string) ""
+    }
+   }
+  }
+ },
+ (main.ClinVarVariationData) {
+  VariantAccession: (string) (len=12) "VCV000429490",
+  VariantVersion: (string) (len=1) "3",
+  VariantType: (string) (len=25) "single nucleotide variant",
+  GeneAffected: (string) (len=5) "ALMS1",
+  GeneEntrezID: (string) (len=4) "7840",
+  GeneOmimID: (string) (len=6) "606844",
+  NcbiRefSeq: (string) (len=25) "NC_000002.12:73559111:A:G",
+  LocationType: (string) (len=10) "withinGene",
+  DbSNPID: (string) (len=4) "none",
+  GenomeVersion: (string) (len=6) "GRCh38",
+  ChromLocation: (string) (len=6) "2p13.1",
+  VariantChromStart: (string) (len=8) "73559112",
+  VariantChromStop: (string) (len=8) "73559112",
+  VariantLength: (string) (len=1) "1",
+  VariantOmimID: (string) (len=11) "notProvided",
+  VariantReviewStatus: (string) (len=52) "criteria provided, multiple submitters, no conflicts",
+  VariantInterpretation: (string) (len=22) "Uncertain significance",
+  HGVData: ([]main.HGVData) (len=6 cap=8) {
+   (main.HGVData) {
+    HGVAssembly: (string) (len=6) "GRCh37",
+    HGVType: (string) (len=18) "genomic, top-level",
+    HGVNucleotideAccesssion: (string) (len=12) "NC_000002.11",
+    HGVNucleotideChange: (string) (len=13) "g.73786239A>G",
+    HGVProteinAccession: (string) "",
+    HGVProteinChange: (string) "",
+    HGVConsequence: (string) ""
+   },
+   (main.HGVData) {
+    HGVAssembly: (string) (len=6) "GRCh38",
+    HGVType: (string) (len=18) "genomic, top-level",
+    HGVNucleotideAccesssion: (string) (len=12) "NC_000002.12",
+    HGVNucleotideChange: (string) (len=13) "g.73559112A>G",
+    HGVProteinAccession: (string) "",
+    HGVProteinChange: (string) "",
+    HGVConsequence: (string) ""
+   },
+   (main.HGVData) {
+    HGVAssembly: (string) "",
+    HGVType: (string) (len=6) "coding",
+    HGVNucleotideAccesssion: (string) (len=11) "NM_015120.4",
+    HGVNucleotideChange: (string) (len=10) "c.10357A>G",
+    HGVProteinAccession: (string) (len=11) "NP_055935.4",
+    HGVProteinChange: (string) (len=12) "p.Asn3453Asp",
+    HGVConsequence: (string) (len=16) "missense variant"
+   },
+   (main.HGVData) {
+    HGVAssembly: (string) "",
+    HGVType: (string) (len=6) "coding",
+    HGVNucleotideAccesssion: (string) (len=9) "LRG_741t1",
+    HGVNucleotideChange: (string) (len=10) "c.10357A>G",
+    HGVProteinAccession: (string) (len=9) "LRG_741p1",
+    HGVProteinChange: (string) (len=12) "p.Asn3453Asp",
+    HGVConsequence: (string) ""
+   },
+   (main.HGVData) {
+    HGVAssembly: (string) "",
+    HGVType: (string) (len=7) "genomic",
+    HGVNucleotideAccesssion: (string) (len=7) "LRG_741",
+    HGVNucleotideChange: (string) (len=11) "g.178360A>G",
+    HGVProteinAccession: (string) "",
+    HGVProteinChange: (string) "",
+    HGVConsequence: (string) ""
+   },
+   (main.HGVData) {
+    HGVAssembly: (string) "",
+    HGVType: (string) (len=7) "genomic",
+    HGVNucleotideAccesssion: (string) (len=11) "NG_011690.1",
+    HGVNucleotideChange: (string) (len=11) "g.178360A>G",
+    HGVProteinAccession: (string) "",
+    HGVProteinChange: (string) "",
+    HGVConsequence: (string) ""
+   }
+  },
+  RCVData: ([]main.RCVData) (len=3 cap=4) {
+   (main.RCVData) {
+    RCVAccessionID: (string) (len=12) "RCV000494528",
+    RCVVersion: (string) (len=1) "3",
+    RCVInterpretation: (string) (len=22) "Uncertain significance",
+    RCVCondition: (string) (len=13) "not specified",
+    RCVSubmissionCount: (string) (len=1) "1",
+    RCVReviewStatus: (string) (len=35) "criteria provided, single submitter",
+    RCVMedGenID: (string) (len=8) "CN169374",
+    RCVTraitSetID: (string) (len=4) "9590"
+   },
+   (main.RCVData) {
+    RCVAccessionID: (string) (len=12) "RCV000766679",
+    RCVVersion: (string) (len=1) "1",
+    RCVInterpretation: (string) (len=22) "Uncertain significance",
+    RCVCondition: (string) (len=12) "not provided",
+    RCVSubmissionCount: (string) (len=1) "1",
+    RCVReviewStatus: (string) (len=35) "criteria provided, single submitter",
+    RCVMedGenID: (string) (len=8) "CN517202",
+    RCVTraitSetID: (string) (len=4) "9460"
+   },
+   (main.RCVData) {
+    RCVAccessionID: (string) (len=12) "RCV001271700",
+    RCVVersion: (string) (len=1) "1",
+    RCVInterpretation: (string) (len=22) "Uncertain significance",
+    RCVCondition: (string) (len=16) "Alstrom syndrome",
+    RCVSubmissionCount: (string) (len=1) "1",
+    RCVReviewStatus: (string) (len=30) "no assertion criteria provided",
+    RCVMedGenID: (string) (len=8) "C0268425",
+    RCVTraitSetID: (string) (len=4) "1087"
+   }
+  },
+  ClinicalInterpretations: (main.ClinicalInterpretations) {
+   InterpretationsCitations: ([]main.Citations) {
+   },
+   Trait: ([]main.Traits) (len=3 cap=4) {
+    (main.Traits) {
+     ID: (string) (len=5) "16789",
+     Name: (string) (len=13) "not specified",
+     Citations: ([]main.Citations) <nil>,
+     PhenotypicSeries: (string) "",
+     TraitMedGen: (string) (len=8) "CN169374",
+     TraitOrph: (string) ""
+    },
+    (main.Traits) {
+     ID: (string) (len=5) "17556",
+     Name: (string) (len=12) "not provided",
+     Citations: ([]main.Citations) <nil>,
+     PhenotypicSeries: (string) "",
+     TraitMedGen: (string) (len=8) "CN517202",
+     TraitOrph: (string) ""
+    },
+    (main.Traits) {
+     ID: (string) (len=3) "207",
+     Name: (string) (len=16) "Alstrom syndrome",
+     Citations: ([]main.Citations) (len=3 cap=4) {
+      (main.Citations) {
+       CitationSource: (string) (len=6) "PubMed",
+       CitationID: (string) (len=8) "20301444"
+      },
+      (main.Citations) {
+       CitationSource: (string) (len=9) "BookShelf",
+       CitationID: (string) (len=7) "NBK1267"
+      },
+      (main.Citations) {
+       CitationSource: (string) (len=6) "PubMed",
+       CitationID: (string) (len=8) "21522186"
+      }
+     },
+     PhenotypicSeries: (string) "",
+     TraitMedGen: (string) (len=8) "C0268425",
+     TraitOrph: (string) (len=2) "64"
+    }
+   }
+  }
+ }
+}
