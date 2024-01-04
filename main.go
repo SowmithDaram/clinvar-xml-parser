@@ -12,12 +12,12 @@ import (
 )
 
 type ClinVarDataRelease struct {
-	XMLName                   xml.Name           `xml:"ClinVarVariationRelease"`
-	Text                      string             `xml:",chardata"`
-	Xsi                       string             `xml:"xsi,attr"`
-	NoNamespaceSchemaLocation string             `xml:"noNamespaceSchemaLocation,attr"`
-	ReleaseDate               string             `xml:"ReleaseDate,attr"`
-	Variants                  []VariationArchive `xml:"VariationArchive"`
+	XMLName xml.Name `xml:"ClinVarResult-Set"`
+	//Text                      string             `xml:",chardata"`
+	//Xsi                       string             `xml:"xsi,attr"`
+	//NoNamespaceSchemaLocation string             `xml:"noNamespaceSchemaLocation,attr"`
+	//ReleaseDate               string             `xml:"ReleaseDate,attr"`
+	Variants []VariationArchive `xml:"VariationArchive"`
 }
 
 type VariationArchive struct {
@@ -624,14 +624,14 @@ func parseXMLFileToData(file string) (*ClinVarDataRelease, error) {
 
 func (data ClinVarDataRelease) extractReleaseInfo() ClinVarDataReleaseInfo {
 	clinRelease := ClinVarDataReleaseInfo{}
-	clinRelease.W3SchemaInfo = data.Xsi
-	clinRelease.ClinVarSchemaVersion = data.NoNamespaceSchemaLocation
-	clinRelease.ClinVarReleaseDate = data.ReleaseDate
+	//clinRelease.W3SchemaInfo = data.Xsi
+	//clinRelease.ClinVarSchemaVersion = data.NoNamespaceSchemaLocation
+	//clinRelease.ClinVarReleaseDate = data.ReleaseDate
 	return clinRelease
 }
 
 func (data *ClinVarDataRelease) extractAllVariants() []ClinVarVariationData {
-	allVariantsInfo := []ClinVarVariationData{}
+	var allVariantsInfo []ClinVarVariationData
 	for _, variant := range data.Variants {
 		singleVariantInfo := variant.extractClinVarVariantData()
 		allVariantsInfo = append(allVariantsInfo, singleVariantInfo)
